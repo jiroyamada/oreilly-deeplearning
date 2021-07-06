@@ -19,5 +19,5 @@ class Man:
     
 
 m = Man("David")
-#m.hello()
-#m.goodbye()
+m.hello()
+m.goodbye()
